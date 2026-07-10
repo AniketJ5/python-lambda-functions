@@ -1,0 +1,8 @@
+Employees Summary Report
+=========================
+
+Total Employees : 103
+Total Salary    : 8923064
+Average Salary  : 86631.69
+Highest Salary  : EMPLOYEE_1991 (146570)
+Lowest Salary   : EMPLOYEE_1166 (33101)
